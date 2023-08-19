@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Vud</h1>
-<h3 align="center">BackEnd Devloper</h3>
+<h3 align="center">BackEnd Developer</h3>
 
 - 🔭 I’m currently working on **@Knerd Social**
 
