@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ecstasys&label=Profile%20views&color=0e75b6&style=flat" alt="ecstasys" /> </p>
 
-- 🔭 I’m currently working on **CropTech and Social**
+- 🔭 I’m currently working on **PodAcademy**
 
 - 📫 How to reach me **rohanvud@gmail.com**
 
