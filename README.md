@@ -14,3 +14,4 @@
 <a href="https://www.leetcode.com/ecstasys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ecstasys" height="30" width="40" /></a>
 </p>
 
+<p align="left"> <img src="https://wakatime.com/badge/github/Ecstasys/Ecstasys.svg" alt="wakatime" /> </p>
